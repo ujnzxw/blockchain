@@ -81,9 +81,11 @@ Email: boyu.liu@gmail.com
 * [相比POS和DPOS，POW更有利于区块链原生代币的价格稳定吗？](https://www.zhihu.com/question/49995385)
 
 ### 密码学
+
 * [数字签名是什么？](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html) - 中文版
 * [What is a Digital Signature?](http://www.youdzone.com/signature.html) - 英文版
 * 安全散列算法（Secure Hash Algorithm，缩写为SHA）
+
 ### 博弈论
 
 * 二叉树随机漫步(Binomial Random Walk)
