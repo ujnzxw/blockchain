@@ -98,6 +98,11 @@ Email: boyu.liu@gmail.com
 
 主流的NoSQL数据库的原理和使用，尤其是KV型数据库，包括但不限于LevelDB，RocksDB等。
 
+* [LevelDB详解](http://blog.csdn.net/linuxheik/article/details/52768223)
+* [RocksDB中文网](https://rocksdb.org.cn/)
+* [RocksDB简介](https://www.2cto.com/kf/201701/585841.html)
+
+
 ### 协议和框架
 
 HTTP/2协议、RPC框架，protobuf
