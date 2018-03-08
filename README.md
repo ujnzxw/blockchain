@@ -61,6 +61,8 @@ Email: boyu.liu@gmail.com
 
 ### 共识机制
 
+    PoW, PoS, DPoS, PBFT, Paxos, Raft
+
 * [共识算法（POW,POS,DPOS,PBFT）介绍和心得](http://blog.csdn.net/lsttoy/article/details/61624287)
 * [掰一掰区块链共识机制与分布式一致性算法](https://yq.aliyun.com/articles/60400)
 * [什么是区块链共识？](http://8btc.com/article-2238-1.html)
@@ -91,6 +93,14 @@ Email: boyu.liu@gmail.com
 * 二叉树随机漫步(Binomial Random Walk)
 * 赌徒破产问题(Gambler's Ruin problem)
 * 泊松分布
+
+### 数据库
+
+主流的NoSQL数据库的原理和使用，尤其是KV型数据库，包括但不限于LevelDB，RocksDB等。
+
+### 协议和框架
+
+HTTP/2协议、RPC框架，protobuf
 
 ### 隐私保护
 
