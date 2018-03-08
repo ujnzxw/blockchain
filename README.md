@@ -21,6 +21,7 @@ Email: boyu.liu@gmail.com
 ### 理论基础
 
 * [区块链理论学习入门指南](https://daimajia.com/2017/08/24/how-to-start-blockchain-learning)
+* [区块链的概念与原理](https://www.zhihu.com/topic/19901773/index)
 * [对去中心化含义的深层思考：究竟是谁控制着区块链？](http://www.8btc.com/who-controls-blockchain)
 * [比原链联合创始人段新星：希望建立起连接比特世界和原子世界资产交互的桥梁](http://www.8btc.com/bytom-duanxinxing)
 
