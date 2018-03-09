@@ -105,13 +105,23 @@ Email: boyu.liu@gmail.com
 
 ### 协议和框架
 
-HTTP/2协议、RPC框架，protobuf
+    RPC框架、HTTP/2协议、protobuf
+* [HTTP2即未来](https://segmentfault.com/a/1190000006923359)
+* rpc over http（基于http的rpc）有两种协议：一种是xml-rpc ，还有一个是 json-rpc。
+    XML-RPC:XML Remote Procedure Call，即XML远程方法调用,利用http+xml封装进行RPC调用。基于http协议传输、XML作为信息编码格式。
+* [基于TCP和HTTP协议的RPC简单实现](http://blog.csdn.net/xlgen157387/article/details/53543009)
+
+* [Google Protocol Buffer 的使用和原理](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)
+* rpc over protobuf： [python通过protobuf实现rpc](https://www.cnblogs.com/chengxuyuancc/p/5245749.html)
+* [Python RPC 之 gRPC](http://blog.csdn.net/coderinfo/article/details/60883030)
+
 
 ### 隐私保护
 
 #### 零知识证明 - Zero-Knowledge Proof
 
 * [阿里巴巴的零知识证明](http://songshuhui.net/archives/36968)
+* [零知识证明 - 百度百科](https://baike.baidu.com/item/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E/8804311?fr=aladdin)
 
 ### 交易性能
 ### 跨链技术
