@@ -84,12 +84,14 @@ Email: boyu.liu@gmail.com
 
 ### 密码学
 
+* https://www.openssl.org/
 * PKI - 公钥基础设施（Public Key Infrastructure）
 * [PKI系统深入介绍](https://www.cnblogs.com/sddai/p/5667472.html)
 * [5分钟让你知道什么是PKI](https://zhuanlan.zhihu.com/p/30136885)
 * [数字签名是什么？](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html) - 中文版
 * [What is a Digital Signature?](http://www.youdzone.com/signature.html) - 英文版
 * 安全散列算法（Secure Hash Algorithm，缩写为SHA）
+* [区块链中的密码学技术——哈希算法、Merkle树、公钥密码算法](http://blog.csdn.net/s_lisheng/article/details/77937202?locationNum=7&fps=1)
 
 ### 博弈论
 
