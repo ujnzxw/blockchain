@@ -318,6 +318,11 @@ Email: boyu.liu@gmail.com
 ### [AskCoin](https://askcoin.org/) - (DAG), 国内ICO项目
 * [白皮书·中文](https://askcoin.org/askcoin_white_paper_cn.pdf) - 白皮书内有关于IOTA和Byteball的原理说明
 
+
+## Hyperledger Fabric
+
+* [Hyperledger Fabric Doc](http://hyperledger-fabric.readthedocs.io/en/latest/blockchain.html)
+* [Hyperledger Fabric 1.0 从零开始（一）](https://www.cnblogs.com/aberic/p/7527831.html)
 ----------------
 
 ## 区块链架构技术
