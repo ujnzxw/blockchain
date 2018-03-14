@@ -71,6 +71,8 @@ Email: boyu.liu@gmail.com
 >
 * [微信PaxosStore：深入浅出Paxos算法协议](http://www.infoq.com/cn/articles/wechat-paxosstore-paxos-algorithm-protocol)
 * [Raft 一致性算法论文译文](http://www.infoq.com/cn/articles/raft-paper)
+* [分布式系统的Raft算法](http://www.jdon.com/artichect/raft.html)
+* [分布式系统Paxos算法](http://www.jdon.com/artichect/paxos.html)
 >
 * [POS白皮书：基于权益证明的交易](https://yq.aliyun.com/articles/60400)
 * [深度解析POS和POW的区别](http://8btc.com/article-1882-1.html)
